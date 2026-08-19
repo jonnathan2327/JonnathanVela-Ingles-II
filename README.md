@@ -14,7 +14,7 @@ A public web page with six sections:
 | Section | What goes there |
 |---|---|
 | Home | My name is Jonnathan David Vela Ortegon, I am a fourth-semester Systems Engineering student at UniEspinal,My institutional email is jvela65@itfip.edu.co |
-| About | I am very diligent in my studies and work; I like to study in order to learn and get ahead. I like going for rides on my motorcycle because it's fun and I enjoy riding. I like video games because they distract and relax me during times of stress. |
+| About | I am very diligent in my studies and work; I like to study in order to learn and get ahead, I like going for rides on my motorcycle because it's fun and I enjoy riding, I like video games because they distract and relax me during times of stress. |
 | Skills | Your technical and professional skills |
 | Resume | Your education and your experience |
 | Projects | The projects you have built |
