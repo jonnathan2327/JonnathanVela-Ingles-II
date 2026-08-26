@@ -18,7 +18,7 @@ A public web page with six sections:
 | Skills | I am intelligent, dedicated, a quick learner, and agile; I have basic knowledge of web programming, office software, and basic computer maintenance. |
 | Resume | I am a high school graduate from San Isidoro School, and I am currently studying for a professional technical degree in web programming at Uniespinal. |
 | Projects | The projects you have built |
-| Contact | How people can reach you |
+| Contact | My email address is jvela65@itfip.edu.co |
 
 ---
 
