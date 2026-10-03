@@ -98,7 +98,7 @@ const EN = {
   "nav.portfolio": "PROJECTS",
   "nav.contact":   "CONTACT",
 
-  "hero.role": "Web Developer · Technical Support",
+  "hero.role": "Estudiante De Ingenieria en Sistemas",
 
   "about.title":          "About Me",
   "about.text":           "I am a fourth-semester student in the Web Programming professional technical program at UniEspinal University.",
