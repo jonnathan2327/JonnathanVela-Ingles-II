@@ -24,16 +24,16 @@ const ES = {
   "nav.portfolio": "PROYECTOS",
   "nav.contact":   "CONTACTO",
 
-  "hero.role": Estudiante De Ingenieria en Sistemas,
+  "hero.role": "Estudiante De Ingenieria en Sistemas",
 
   "about.title":          "Sobre Mí",
-  "about.text":           Soy un estudiante de 4 semestre del tecnico profesional en programacion web de la universidad UniEspinal,
+  "about.text":           "Soy un estudiante de 4 semestre del tecnico profesional en programacion web de la universidad UniEspinal",
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
-  "about.valueLocation":  "[Ciudad], Colombia",
+  "about.valueLocation":  "Espinal-Tolima, Colombia",
   "about.labelEmail":     "Correo",
   "about.labelLanguages": "Idiomas",
-  "about.valueLanguages": "Español (nativo) · Inglés ([tu nivel])",
+  "about.valueLanguages": "Español (nativo) · Inglés A1",
   "about.labelStatus":    "Disponibilidad",
   "about.valueStatus":    "Abierto a prácticas",
   "about.interestsTitle": "Intereses",
@@ -78,7 +78,7 @@ const ES = {
   "contact.emailLabel":    "Correo",
   "contact.linkedinValue": "[Tu perfil profesional]",
 
-  "footer.note": "[Tu nombre] · Técnico Profesional en Programación Web · UniEspinal"
+  "footer.note": "Jonnathan David Vela Ortegon · Técnico Profesional en Programación Web · UniEspinal"
 };
 
 
@@ -101,13 +101,13 @@ const EN = {
   "hero.role": "Web Developer · Technical Support",
 
   "about.title":          "About Me",
-  "about.text":           "[Write two or three sentences about yourself: what you study, what interests you in web development, and what you are looking for now.]",
+  "about.text":           "I am a fourth-semester student in the Web Programming professional technical program at UniEspinal University.",
   "about.infoTitle":      "Information",
   "about.labelLocation":  "Location",
-  "about.valueLocation":  "[City], Colombia",
+  "about.valueLocation":  "Espinal-Tolima, Colombia",
   "about.labelEmail":     "Email",
   "about.labelLanguages": "Languages",
-  "about.valueLanguages": "Spanish (native) · English ([your level])",
+  "about.valueLanguages": "Spanish (native) · English A1",
   "about.labelStatus":    "Availability",
   "about.valueStatus":    "Open to internships",
   "about.interestsTitle": "Interests",
