@@ -24,7 +24,7 @@ const ES = {
   "nav.portfolio": "PROYECTOS",
   "nav.contact":   "CONTACTO",
 
-  "hero.role": "Desarrollador Web · Soporte Técnico",
+  "hero.role": "Estudiante De Ingenieria en Sistemas",
 
   "about.title":          "Sobre Mí",
   "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
