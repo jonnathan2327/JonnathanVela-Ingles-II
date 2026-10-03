@@ -24,10 +24,10 @@ const ES = {
   "nav.portfolio": "PROYECTOS",
   "nav.contact":   "CONTACTO",
 
-  "hero.role": "Estudiante De Ingenieria en Sistemas",
+  "hero.role": Estudiante De Ingenieria en Sistemas,
 
   "about.title":          "Sobre Mí",
-  "about.text":           "[Escribe aquí dos o tres frases sobre ti: qué estudias, qué te interesa dentro del desarrollo web y qué estás buscando ahora.]",
+  "about.text":           Soy un estudiante de 4 semestre del tecnico profesional en programacion web de la universidad UniEspinal,
   "about.infoTitle":      "Información",
   "about.labelLocation":  "Ubicación",
   "about.valueLocation":  "[Ciudad], Colombia",
