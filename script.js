@@ -146,7 +146,7 @@ const EN = {
   "project.2.text":  "Technologies used",
   "project.3.title": "Project name",
   "project.3.text":  "Technologies used",
-
+ 
   "contact.title":         "Contact",
   "contact.intro":         "Have a project or a vacancy? Send me a message.",
   "contact.emailLabel":    "jonnathan270208@gmail.com",
