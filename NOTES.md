@@ -1,8 +1,8 @@
 # Translation Notes
 
-**Student:** [Your name]
-**Course:** [Inglés I / Inglés II]
-**Date:** [dd/mm/yyyy]
+**Student:** Jonnathan David Vela Ortegon
+**Course:** Inglés II
+**Date:** [16/10/2026]
 
 ---
 
@@ -31,7 +31,8 @@ This file is where you show that you understood those differences.
 Name **one thing** that appears in your Spanish version and does **not** appear
 in your English version. Explain why you removed it.
 
-> [Write 2–4 sentences in English.]
+> 
+Based on the check I performed, I haven't omitted anything.
 
 ---
 
@@ -40,7 +41,7 @@ in your English version. Explain why you removed it.
 Name **one technical term** that you kept in English in both versions.
 Explain why translating it would be a bad idea.
 
-> [Write 2–4 sentences in English.]
+> One technical term I kept in English in both versions is “JavaScript.” I did not translate it because it is the official name of a programming language. Translating it could confuse readers because programmers use the same name internationally.
 
 ---
 
@@ -50,11 +51,11 @@ Name **one sentence** that was hard to write in English. Copy the Spanish
 version and your English version. Explain what you changed and why a
 word-by-word translation did not work.
 
-> Spanish: [copy your sentence here]
+> Spanish: Soy un estudiante de 4 semestre del técnico profesional en programación web de la universidad UniEspinal.
 >
-> English: [copy your sentence here]
+> English: I am a fourth-semester student in the Web Programming professional technical program at UniEspinal University.
 >
-> [Write 2–4 sentences in English explaining the change.]
+> This sentence was difficult because the word order in Spanish is different from English. I changed the structure to make it sound more natural in English. A word-by-word translation would sound strange and could make the sentence difficult to understand.
 
 ---
 
